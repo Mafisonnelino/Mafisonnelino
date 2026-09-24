@@ -21,4 +21,6 @@
     <p align="center">$${\color{#C60C30}\textbf{my pronounces are They/Them/he}}$$
     <p align="center">$${\color{#C60C30}\textbf{Do not try to copy my ponies but ask me if you can i can just gift it}}$$
     <p align="center">$${\color{#C60C30}\textbf{Im a very omnivert person i can get pretty complicated im sorry for that}}$$
-    <p align="center">$${\color{#C60C30}\textbf{I do not Interact with people who doesnt apperciate people the way they are}}$$
+    <p align="center">$${\color{#C60C30}\textbf{I do not Interact with people who doesnt apperciate people the way they are}}$$ 
+
+      
