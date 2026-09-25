@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=30&duration=1500&pause=500&color=C60C30&center=true&vCenter=true&width=435&lines=;Nightshades'+are+beautiful;But+verys+deadly" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=30&duration=1500&pause=500&color=C60C30&center=true&vCenter=true&width=435&lines=;Nightshades+are+beautiful;But+very+deadly" alt="Typing SVG" /></a>
 
 
 
